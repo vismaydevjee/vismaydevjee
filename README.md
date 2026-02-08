@@ -1,64 +1,91 @@
-# 💫 About Me:
-🤖 AI Engineer at Fidelity Investments building production AI systems and LLM applications<br>
-🚀 Specializing in AI agents, RAG pipelines, and MLOps with real-world business impact<br>
-📊 3+ years deploying ML models that drive operational efficiency and data-driven decisions<br>
-🎓 MS in Information Systems from Northeastern University (Data Science & AI focus)<br>
-💬 Let's connect: [LinkedIn](https://linkedin.com/in/vismaydevjee) | [Email](mailto:devjeevismay@gmail.com)
+<div align="center">
 
-## 🔧 Currently Working On:
-- Production RAG systems with 94% retrieval accuracy
-- LLM evaluation frameworks for enterprise AI
-- AI-powered automation reducing manual processes 40+ hours/month
-- Predictive analytics across $267B in financial operations
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vismaydevjee)
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@devjeevismay)
+# I'm Vismay Devjee
+<img src="avatar.png" width="350" alt="Vismay Devjee" style="border-radius: 50%;" />
 
-## 💻 Tech Stack:
+**AI Engineer · Fidelity Investments**
 
-**AI & Machine Learning:**<br>
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+Building production-grade AI & LLM systems in large-scale financial environments
 
-**LLMs & AI Tools:**<br>
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Claude-000000?style=for-the-badge&logo=anthropic&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-vismay.dev-black?style=for-the-badge)](https://vismay.dev)&nbsp;&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-vismaydevjee-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vismaydevjee)&nbsp;&nbsp;
+[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
 
-**Data & Cloud:**<br>
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-**MLOps & DevOps:**<br>
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
-**Analytics & Visualization:**<br>
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=vismaydevjee&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=vismaydevjee&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vismaydevjee&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=vismaydevjee&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=vismaydevjee&icon=6&color=12)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with love for AI and data -->
+### About
+
+I design and deploy LLM-powered systems- agents, RAG pipelines, evaluation frameworks that run in production at enterprise scale. My work sits at the intersection of AI engineering and financial services, where I translate ambiguous business problems into scalable, governed AI solutions.
+
+Graduated with a **MS in Information Systems** (AI/ML concentration) at **Northeastern University** while building AI systems that support **$267B+** in financial operations at Fidelity.
+
+### What I'm Working On
+
+- **RAG systems** achieving 94% retrieval accuracy across 10,000+ fund documents
+- **LLM evaluation frameworks** for enterprise AI governance and SOX compliance
+- **AI automations** saving 40+ manual hours/month through anomaly detection and intelligent workflows
+- **End-to-end ML pipelines** from data ingestion → model training → deployment → monitoring
+
+### Tech Stack
+
+#### AI & Machine Learning
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)&nbsp;
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)&nbsp;
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)&nbsp;
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)&nbsp;
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+#### LLMs & AI Tooling
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)&nbsp;
+![Claude](https://img.shields.io/badge/Claude-000000?style=for-the-badge&logo=anthropic&logoColor=white)&nbsp;
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)&nbsp;
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
+
+#### Data & Cloud
+
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)&nbsp;
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)&nbsp;
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)&nbsp;
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
+
+#### MLOps & DevOps
+
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white)&nbsp;
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)&nbsp;
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=vismaydevjee&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vismaydevjee&theme=tokyonight&hide_border=true&background=0d1117" width="48%" />
+
+</div>
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=vismaydevjee&theme=onestar&no-frame=true&no-bg=true&margin-w=8&column=6)
+
+</div>
+
+---
+
+<div align="center">
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+<sub>*Building AI systems that survive production.*</sub>
+
+![](https://visitcount.itsvg.in/api?id=vismaydevjee&icon=6&color=12)
+
+</div>
