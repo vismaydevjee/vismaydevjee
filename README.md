@@ -72,12 +72,6 @@ Graduated with a **MS in Information Systems** (AI/ML concentration) at **Northe
 
 </div>
 
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=vismaydevjee&theme=onestar&no-frame=true&no-bg=true&margin-w=8&column=6)
-
-</div>
-
 ---
 
 <div align="center">
