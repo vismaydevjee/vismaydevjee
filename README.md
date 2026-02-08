@@ -8,7 +8,7 @@
 
 Building production-grade AI & LLM systems in large-scale financial environments
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-vismay.dev-black?style=for-the-badge)](https://vismay.dev)&nbsp;&nbsp;
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-vismay.ai-amber?style=for-the-badge)](https://vismaydevjee.github.io/)&nbsp;&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-vismaydevjee-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vismaydevjee)&nbsp;&nbsp;
 [![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
 
