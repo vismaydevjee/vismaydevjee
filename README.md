@@ -64,6 +64,63 @@ Graduated with a **MS in Information Systems** (AI/ML concentration) at **Northe
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 
 ---
+## 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td valign="top" width="33%">
+
+### 🔍 Multi-Modal RAG System
+**Production-ready GenAI document intelligence**
+
+Hybrid retrieval pipeline combining BM25 + dense embeddings with citation grounding and confidence scoring — built for enterprise-scale Q&A over financial documents.
+
+`LangChain` `Pinecone` `FastAPI` `Docker` `Kubernetes`
+
+- 94% retrieval accuracy across 10K+ documents
+- Citations, grounding & confidence scoring
+- Deployed via Docker + Kubernetes
+
+[**→ View Repository**](https://github.com/DevjeeVismay/multi-agent-research-system)
+
+
+</td>
+
+<td valign="top" width="33%">
+
+### 🧪 LLM Evaluation Framework
+**Enterprise LLM governance + benchmarking**
+
+End-to-end evaluation suite for comparing LLM variants across quality, reasoning, and safety dimensions — with guardrails and a monitoring pipeline for ongoing governance.
+
+`Claude API` `OpenAI` `Prometheus` `Python`
+
+- A/B testing across model variants
+- Hallucination guardrails + quality benchmarks
+- Monitoring & continuous evaluation pipeline
+
+</td>
+
+<td valign="top" width="33%">
+
+### 🛡️ AI Compliance Automation
+**SOX-ready risk & compliance workflow automation**
+
+LLM-powered pipeline that parses 500+ financial PDFs monthly, flags anomalies, and automates manual review tasks — saving 40+ hours/month with 100% audit success rate.
+
+`FastAPI` `LangChain` `PyMuPDF` `PostgreSQL`
+
+- 500+ PDFs processed monthly
+- 40+ hours/month saved through automation
+- 100% SOX audit success rate
+
+</td>
+
+</tr>
+</table>
+
+---
 
 <div align="center">
 
