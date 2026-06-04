@@ -4,7 +4,7 @@
 # I'm Vismay Devjee
 <img src="avatar.png" width="350" alt="Vismay Devjee" style="border-radius: 50%;" />
 
-**AI Engineer · Fidelity Investments**
+**AI Engineer · Red Hat**
 
 Building production-grade AI & LLM systems in large-scale financial environments
 
